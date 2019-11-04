@@ -1,0 +1,6 @@
+C:\Users\Jake Hamilton\Engineering45\Week3\day1\GameSelect\GameSelect\bin\Debug\GameSelect.exe.config
+C:\Users\Jake Hamilton\Engineering45\Week3\day1\GameSelect\GameSelect\bin\Debug\GameSelect.exe
+C:\Users\Jake Hamilton\Engineering45\Week3\day1\GameSelect\GameSelect\bin\Debug\GameSelect.pdb
+C:\Users\Jake Hamilton\Engineering45\Week3\day1\GameSelect\GameSelect\obj\Debug\GameSelect.csprojAssemblyReference.cache
+C:\Users\Jake Hamilton\Engineering45\Week3\day1\GameSelect\GameSelect\obj\Debug\GameSelect.exe
+C:\Users\Jake Hamilton\Engineering45\Week3\day1\GameSelect\GameSelect\obj\Debug\GameSelect.pdb
